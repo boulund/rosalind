@@ -1,0 +1,7 @@
+Problem
+
+A DNA string is a reverse palindrome if it is equal to its reverse complement. For instance, GCATGC is a reverse palindrome because its reverse complement is GCATGC.
+
+Given: A DNA string of length at most 1 kbp.
+
+Return: The position and length of every reverse palindrome in the string having length between 4 and 12.
